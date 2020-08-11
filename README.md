@@ -9,7 +9,7 @@ Up - Jump
 
 Down - Crouch
 
-Shift/Move - Run
+Shift and Move - Run
 
 E - Open Inventory
 
